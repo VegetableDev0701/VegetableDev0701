@@ -38,7 +38,8 @@ I am constantly seeking opportunities to expand my knowledge and stay at the for
 
 🤔 Web Backend Framework Development (Node.js / Express / Python )
 
-🤔 Web3 ( Blockchain ) Development ( Bit / Ether / Solana / Sei / Injective)
+🤔 Smart Contract Development ( Go / C++ (qt) / Rust )
 
-🤔 Smart Contract ( Rust )
+🤔 BlockChain Development ( Bit / Ether / Solana / Sei / Injective)
+
 <br />
