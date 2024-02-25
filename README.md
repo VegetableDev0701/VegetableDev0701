@@ -32,11 +32,11 @@ I am constantly seeking opportunities to expand my knowledge and stay at the for
 
 🔭 Always Be Learning New Technologies for a Competitive Edge
 
-🤔 Web Basic Skills (HTML5 / CSS / jQuery / Bootstrap)
+🤔 Web Basic Skills (HTML5 / CSS / jQuery / Bootstrap / tailwind)
 
-🤔 Web Frontend Framework Development (React.js / Angular / Vue 3 / Sails)
+🤔 Web Frontend Framework Development (React.js / Angular / Vue 3 / Sails / Next / Nuxt)
 
-🤔 Web Backend Framework Development (Node.js / Express / Python )
+🤔 Web Backend Framework Development (Node.js / Express / Nestjs / Python )
 
 🤔 Smart Contract Development ( Go / C++ (qt) / Rust )
 
